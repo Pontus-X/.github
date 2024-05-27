@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/deltaDAO/microservice-pontusx-monitor/tree/main">
+  <a href="https://github.com/Pontus-X/.github/tree/main">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/pontusx_logo_blue.svg">
-        <img alt="Pontus-X Monitor logo" src="assets/pontusx_logo_blue.svg" width="auto" height="100">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pontus-X/.github/main/profile/assets/pontusx_logo_blue.svg">
+        <img alt="Pontus-X Monitor logo" src="https://raw.githubusercontent.com/Pontus-X/.github/main/profile/assets/pontusx_logo_blue.svg" width="auto" height="120">
       </picture>
   </a>
 </p>
 
-<h1 style="font-size: 40px;" align="center">Pontus-X</h1>
+<h1 style="font-size: 40px;" align="center">PONTUS-X</h1>
 <p align="center">
    Powering European Data Spaces
 </p>
