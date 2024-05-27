@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/deltaDAO/microservice-pontusx-monitor/blob/main/LICENSE">
+  <a href="https://github.com/Pontus-X/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=for-the-badge" alt="License">
   </a>
 </p>
