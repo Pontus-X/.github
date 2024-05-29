@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Pontus-X is a decentralized digital ecosystem that aims to enable secure, compliant, and innovative data sharing and monetization across Europe within the Gaia-X framework.
+Pontus-X is a decentralized digital ecosystem that aims to enable secure, compliant, and innovative data sharing, AI services and monetization across Europe within the Gaia-X framework.
 
 ## Vision
 Our vision is to be Europe's premier decentralized digital ecosystem, facilitating seamless collaboration and innovation across diverse industries. We envision a future where organizations can securely exchange and monetize their data, driving economic growth and digital transformation while maintaining control over their data.
